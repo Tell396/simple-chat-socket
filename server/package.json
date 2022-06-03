@@ -9,6 +9,7 @@
   "author": "Berezhnev Vladimir <vova21473@gmail.com> (https://berezhnev.vercel.app/)",
   "license": "ISC",
   "dependencies": {
+    "@socket.io/admin-ui": "^0.3.0",
     "nodemon": "^2.0.16",
     "socket.io": "^4.5.1"
   }
